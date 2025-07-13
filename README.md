@@ -2,7 +2,7 @@
 ├── rss/
 │   └── nouveautes.xml
 ├── index.html (optionnel)
-https://gena03000./images/cover.jpg
+https://gena03000/images/cover.jpg
 /gena03000-sacs-style-paris/RSS/nouveautes.xml
 <!DOCTYPE html>
 <html lang="fr">
