@@ -13,6 +13,10 @@ https://gena03000.github.io/gena03000-sacs-style-paris/RSS/nouveautes.xml
   <link rel="alternate" type="application/rss+xml"
         title="Flux RSS Gena Campbell"
         href="./RSS/nouveautes.xml" />
+  /gena03000-sacs-style-paris
+├── images/
+│   └── cover.jpg
+
 </head>
 <body>
   <header>
