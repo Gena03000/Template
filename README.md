@@ -16,6 +16,12 @@ https://gena03000.github.io/gena03000-sacs-style-paris/RSS/nouveautes.xml
 </head>
 <body>
   <header>
+    <div class="rss-subscribe">
+  <a href="./RSS/nouveautes.xml" target="_blank" class="subscribe-button">
+    📰 S’abonner aux nouveautés
+  </a>
+</div>
+
     <h1>👜 Nouveautés Gena Campbell</h1>
     <p>Derniers ajouts à la collection – sacs, foulards et accessoires féminins.</p>
   </header>
