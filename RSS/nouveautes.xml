@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Porte du Style – Nouveautés</title>
+    <link>https://genacampbell.shop</link>
+    <description>Les dernières nouveautés et lancements élégants de Gena Campbell</description>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 14 Jul 2025 18:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Sac Messenger laqué – édition rouge vin</title>
+      <link>https://genacampbell.shop/products/porte-du-style-rouge</link>
+      <description>Découvrez l’audace du rouge vin dans notre nouveau sac à motif crocodile. Élégance et caractère.</description>
+      <pubDate>Mon, 14 Jul 2025 17:00:00 GMT</pubDate>
+      <guid>porte-du-style-rouge-001</guid>
+    </item>
+
+    <item>
+      <title>Lancement de la newsletter été 2025</title>
+      <link>https://genacampbell.shop/newsletter/ete2025</link>
+      <description>Une saison sous le signe du chic urbain. Tous nos coups de cœur et styles tendance.</description>
+      <pubDate>Sun, 13 Jul 2025 10:30:00 GMT</pubDate>
+      <guid>newsletter-ete-2025</guid>
+    </item>
+
+  </channel>
+</rss>
