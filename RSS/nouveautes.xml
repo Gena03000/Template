@@ -24,9 +24,7 @@
     </item>
 
   </channel>
-  fix: nettoyage du fichier RSS - suppression des instructions Git
-git add RSS/nouveautes.xml
-git commit -m "fix: fichier XML nettoyé"
-git push origin main
+</rss>
+
 
 
