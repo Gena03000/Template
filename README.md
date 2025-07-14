@@ -75,6 +75,7 @@ async function loadRSS() {
     document.getElementById('rss-list').innerHTML =
       '<li>❌ Impossible de charger les nouveautés.</li>';
   }
+  feat: reset complet du projet
 }
 
 document.addEventListener('DOMContentLoaded', loadRSS);
