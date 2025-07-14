@@ -24,7 +24,4 @@
     </item>
 
   </channel>
-</rss>
-git add RSS/nouveautes.xml
-git commit -m "Ajout du flux RSS des nouveautés"
-git push origin main
+
