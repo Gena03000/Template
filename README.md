@@ -1,5 +1,16 @@
 /gena03000-paris-style-bags
 ├── rss/
+/mon-projet-shopify/
+├── assets/
+├── config/
+├── layout/
+├── sections/
+├── snippets/
+├── templates/
+├── locales/
+├── .gitignore  ← ici !
+├── README.md
+└── package.json
 │   └── nouveautes.xml
 ├── index.html (optionnel)
 https://gena03000Gena03000/Template/Copilot_20250713_025527.png//cover.jpg
